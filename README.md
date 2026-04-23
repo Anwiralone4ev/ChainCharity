@@ -16,8 +16,8 @@ ChainCharity aims to redefine global philanthropy by replacing blind faith with 
 ## Contract
 **Contract Link:** [View on StellarExpert](https://stellar.expert/explorer/testnet/contract/CCVD2BWTLNPXHO7OKRKDMNSKFTV767ZFU5B66HC7DBS2Z4FIZBL7QE3P)  
 
-**Contract's Screenshot:** ![Contract Interaction Screenshot](path/to/your/screenshot.png)  
-*(Note: Upload your screenshot to the repository and update this path)*
+**Contract's Screenshot:** ![Contract Interaction Screenshot] 
+<img width="2274" height="1547" alt="image" src="https://github.com/user-attachments/assets/f07625b0-7f24-448d-bc1b-8ef780bacee5" />
 
 ## Future Scopes
 * **DAO Integration:** Expanding the governance model to allow major donors to have voting rights on large-scale projects.
